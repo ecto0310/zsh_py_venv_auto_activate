@@ -1,0 +1,1 @@
+# zsh_py_venv_auto_activate
